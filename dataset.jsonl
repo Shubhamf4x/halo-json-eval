@@ -1,0 +1,5 @@
+{"id": 1, "input": "Hey, please book 2 tickets to Delhi for Rahul Sharma on 2026-12-05. Budget is around Rs 4500.", "expected": {"name": "Rahul Sharma", "destination": "Delhi", "tickets": 2, "date": "2026-12-05", "max_budget": 4500}}
+{"id": 2, "input": "Need 1 seat to Mumbai for Priya Verma!! Date: 12 Jan 2027, don't spend more than 6000 INR.", "expected": {"name": "Priya Verma", "destination": "Mumbai", "tickets": 1, "date": "2027-01-12", "max_budget": 6000}}
+{"id": 3, "input": "Urgent: 4 passes to Bengaluru under Amit Patel, traveling 2026-12-20. Cap at 18000.", "expected": {"name": "Amit Patel", "destination": "Bengaluru", "tickets": 4, "date": "2026-12-20", "max_budget": 18000}}
+{"id": 4, "input": "Book 3 flights to Goa for Neha Gupta on Dec 30 2026, max 15000 total.", "expected": {"name": "Neha Gupta", "destination": "Goa", "tickets": 3, "date": "2026-12-30", "max_budget": 15000}}
+{"id": 5, "input": "One ticket to Kolkata, passenger Vikram Singh, date 2027-02-14, budget 3200.", "expected": {"name": "Vikram Singh", "destination": "Kolkata", "tickets": 1, "date": "2027-02-14", "max_budget": 3200}}
